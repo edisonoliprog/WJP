@@ -1,0 +1,74 @@
+body {
+
+    width: 99%;
+    background-color: rgb(255, 255, 255);
+    background-size: 0mm;
+    border-width: initial;
+}
+
+#pesquisa {
+
+    background-color: rgb(228, 15, 15);
+    font-weight: bolder;
+    align-items: center;
+    padding: 20px;
+    font-size: 25px;
+    color: white;
+}
+
+.filtro {
+
+    margin: 15px;
+    color: rgb(228, 15, 15);
+    width: 180px;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 25px;
+}
+
+.form-inline{
+
+    margin-right: 1%;
+}
+
+.login {
+
+    margin-right: 20%;
+    color: lawngreen;
+}
+
+.navbar-nav, .navbar-brand{
+
+    margin-right: 20%;
+}
+
+.text {
+
+    color: white;
+    font-size: 25px;
+    font-style: normal;
+   align-self: baseline;
+}
+
+#acesso {
+
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 5px;
+    
+}
+
+h5{
+
+    color: rgb(143, 132, 241);
+    padding: 5px;
+}
+
+.filtros {
+
+    margin: 80px;
+    margin-left: 15;
+    background-color: rgb(253, 241, 241);
+    color: red;
+}
